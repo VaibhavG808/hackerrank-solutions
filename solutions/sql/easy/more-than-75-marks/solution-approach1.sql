@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    sql
 -- Status      Accepted
--- Submitted   2026-10-06, 05:50 p.m.
+-- Submitted   2026-10-15, 08:58 p.m.
 -- ──────────────────────────────────────────────────
 
 
